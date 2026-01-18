@@ -1,2 +1,3 @@
-# Github-Copilot-Advanced-Repo
-Repository created using MCP server. MCP Rocks!
+# Github Copilot Advanced Repo
+
+This repository was created using MCP server and MCP Rocks !!!
